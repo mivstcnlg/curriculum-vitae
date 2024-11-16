@@ -5,6 +5,7 @@ Este projeto consiste na criação de um currículo fictício utilizando apenas 
 
 ## Visual do Projeto
 Abaixo você pode visualizar o visual final do projeto
+
 ![Tela](/assets/images/telaindex.JPG)
 
 ## Estrutura do HTML
