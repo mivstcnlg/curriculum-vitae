@@ -4,7 +4,7 @@
 Este projeto consiste na criação de um currículo fictício utilizando apenas HTML5 e CSS, sem o uso de tecnologias adicionais. O layout destaca a foto da pessoa em evidência, seguida pelo seu nome e uma série de seções que detalham suas informações pessoais e profissionais. Para fins de exemplo, foi utilizada a apresentadora Sabrina Sato, e todas as informações contidas são fictícias.
 
 ## Visual do Projeto
-Abaixo você pode visualizar o visual final do projeto
+Abaixo tem a visão final do projeto
 
 ![Tela](/assets/images/telaindex.JPG)
 
